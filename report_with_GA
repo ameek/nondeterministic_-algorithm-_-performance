@@ -1,0 +1,44 @@
+96
+4 --> rate of monetcarloSucess:         100  avarage itaration --> 0.96
+4 --> rate of GibbsSucess:              100  avarage itaration --> 2.6
+4 --> rate of HillDescentSucess:        100  avarage itaration --> 1.32
+4 --> rate of HillDescentRWSucess:      100  avarage itaration --> 0.96
+4 --> rate of SimulatedAnnealingSucess: 100  avarage itaration --> 4.62
+4 --> rate of GeneticAlgorithmSucess: 100  avarage itaration --> 0.5066666666666667
+
+ 
+ 
+
+5374
+6 --> rate of monetcarloSucess:         39  avarage itaration --> 137.7948717948718
+6 --> rate of GibbsSucess:              37  avarage itaration --> 46.108108108108105
+6 --> rate of HillDescentSucess:        99  avarage itaration --> 6.343434343434343
+6 --> rate of HillDescentRWSucess:      100  avarage itaration --> 14.04
+6 --> rate of SimulatedAnnealingSucess: 100  avarage itaration --> 41.9
+6 --> rate of GeneticAlgorithmSucess: 100  avarage itaration --> 6.2
+
+ 
+ 
+
+9138
+8 --> rate of monetcarloSucess:         4  avarage itaration --> 2284.5
+8 --> rate of GibbsSucess:              4  avarage itaration --> 645.0
+8 --> rate of HillDescentSucess:        97  avarage itaration --> 12.804123711340207
+8 --> rate of HillDescentRWSucess:      100  avarage itaration --> 29.56
+8 --> rate of SimulatedAnnealingSucess: 100  avarage itaration --> 63.74
+8 --> rate of GeneticAlgorithmSucess: 100  avarage itaration --> 79.0
+
+ 
+ 
+
+2354
+10 --> rate of monetcarloSucess:         1  avarage itaration --> 2354.0
+10 --> rate of GibbsSucess:              1  avarage itaration --> 8936.0
+10 --> rate of HillDescentSucess:        94  avarage itaration --> 21.4468085106383
+10 --> rate of HillDescentRWSucess:      49  avarage itaration --> 162.9795918367347
+10 --> rate of SimulatedAnnealingSucess: 99  avarage itaration --> 75.8989898989899
+10 --> rate of GeneticAlgorithmSucess: 99  avarage itaration --> 0.0
+
+ 
+ 
+
